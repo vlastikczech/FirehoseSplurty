@@ -1,6 +1,10 @@
 @import "bootstrap";
 @import url('https://fonts.googleapis.com/css?family=Overpass');
 
+@-ms-viewport{
+  width: device-width;
+}
+
 header{
   border-top: 3px solid #222222;
 }
